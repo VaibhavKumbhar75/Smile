@@ -1,0 +1,74 @@
+#bor{
+    border:35px groove rosybrown ;
+    width: 500px;
+    height: 500px;
+    margin-left: 250px;
+    margin-top: 60px;
+}
+
+#circle{
+    border: 3px solid black;
+    width: 350px; height: 350px;
+    border-radius: 300px;
+    margin-left: 75px;
+    margin-top: 70px;
+    background-color: yellow;
+}
+
+#eye1{
+    background-color: black;
+    border: 1px solid black;
+    width: 70px; height: 70px;
+    border-radius: 50px;
+    margin-left: 75px;
+    margin-top: 80px;
+}
+
+#dot1{
+    background-color: white;
+    border: 1px solid black;
+    width: 30px; height: 30px;
+    border-radius: 50px;
+    margin-left: 32px;
+    margin-top: 18px;
+    
+}
+
+#eye2{
+    background-color: black;
+    border: 1px solid black;
+    width: 70px; height: 70px;
+    border-radius: 50px;
+    margin-left: 200px;
+    margin-top: -60px;
+}
+
+#dot2{
+    background-color: white;
+    border: 1px solid black;
+    width: 30px; height: 30px;
+    border-radius: 50px;
+    margin-left: 8px;
+    margin-top: 18px;
+    
+}
+
+#nos{
+    background-color: red;
+    border: 1px solid black;
+    width: 30px; height: 30px;
+    border-radius: 50px;
+    margin-left: 150px;
+
+}
+
+
+#smile{
+    background-color: blanchedalmond;
+    border: 4px solid black;
+    width: 170px; height: 80px;
+    margin-top: 40px;
+    margin-left: 90px;
+    border-bottom-left-radius: 170px;
+    border-bottom-right-radius: 170px;
+}
